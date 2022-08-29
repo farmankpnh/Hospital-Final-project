@@ -1,0 +1,18 @@
+/*.bg{
+    background-image: url(../../assets/img/gallery/gallery-1.jpg);
+    height: 600px;
+}*/
+
+
+.create-doctor{
+    height: auto;
+    background-color: #d7f9f9;
+    padding-right: 30%;
+    padding-left: 30%;
+   
+    height: 80vh;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    
+
+}

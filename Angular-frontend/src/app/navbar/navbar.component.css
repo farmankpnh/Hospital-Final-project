@@ -1,0 +1,13 @@
+a{
+    font-weight: bolder;
+}
+
+.navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
+    color: #000d0d;
+}
+
+.navbar-nav
+{
+padding-left: 30%;
+}
+
